@@ -14,7 +14,7 @@
     "moment": "^2.24.0",
     "mongodb": "^3.5.5",
     "natural": "^0.6.3",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "node-nlp": "^4.2.1",
     "puppeteer": "^2.1.1",
     "tabletojson": "^2.0.3",
